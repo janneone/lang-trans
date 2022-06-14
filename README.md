@@ -1,7 +1,7 @@
 # Translator app
 Language translator built for Resurs
 
-For some reason the GIF got very blurry...
+For some reason the GIF got very blurry in the initial state...
 
 ## Demo
 ![Language translator demo](https://github.com/janneone/lang-trans/blob/master/lang-trans-github.gif)
@@ -23,7 +23,8 @@ The user loads different projects from a config file that has a certain folder a
 ----------etc...
 ```
 
-The data is then fetched from Bitbucket using their own API and mutated in such way to standardize the way that the foundation of these translations were supposed to work. After the user did translations, they could save their data which would then create a PR and notify the developers that should approve the translations performed.
+The data is then fetched from Bitbucket using their own API and mutated in such way to standardize the way that the foundation of these translations were supposed to work. 
+After the user did translations, they could save their data which would then create a PR and notify the developers that were supposed to approve the translations performed.
 
 
 ## Main technologies used
