@@ -10,7 +10,7 @@ For some reason the GIF got very blurry in the initial state...
 ## Core features
 This app acts like a middleman between a Web client and Bitbucket.
 It's a monorepo entirely built upon JavaScript with a backend running Express and a frontend running React.
-The user loads different projects from a config file that has a certain folder and file structure, i.e.
+The user loads different projects from a config file that has a appointed folder path and file suffix, i.e.
 
 ```
 --some
