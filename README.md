@@ -28,11 +28,16 @@ After the user did translations, they could save their data which would then cre
 
 
 ## Main technologies used
+### Backend
 * Express
+* JWT
+
+### Frontend
 * React
 * Redux
-* ... and other libraries in order to build and server a fullstack app. 
+* Redux-thunk
+
+* ... and other libraries in order to build and serve a fullstack app. 
 
 ## Built by
-
 [janneone](https://github.com/janneone)
